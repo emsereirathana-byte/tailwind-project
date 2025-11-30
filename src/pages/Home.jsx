@@ -13,7 +13,7 @@ function Home() {
         <div className='relative h-[500px] bg-[url(https://www.w3schools.com/w3images/coffeehouse.jpg)] bg-cover bg-center flex justify-center items-center grayscale-50'>
             <h1 className='text-8xl text-white'>
                 <p className='my-10'>the</p> 
-                <p>Cafe</p>
+                <p>Cafee</p>
             </h1>
             <div className='absolute bottom-3 left-0 w-full flex justify-between items-center'>
                 <p className='bg-primary text-white ml-8 px-2'>Open from 6am to 5pm</p>
